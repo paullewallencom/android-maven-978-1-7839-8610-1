@@ -1,0 +1,29 @@
+1) JDK 1.7 or latest                          http://www.oracle.com/technetwork/java/javase/downloads/index.html           Windows or Linux
+  
+
+2) Maven 3.2 or latest                        http://maven.apache.org/download.cgi                                         Windows or Linux
+
+
+3) Android SDK                                https://developer.android.com/sdk/index.html                                 Windows or Linux
+
+
+4) Eclipse IDE Luna 4.4 or latest             https://www.eclipse.org/downloads/                                           Windows or Linux
+
+
+5) Android Studio Beta                        https://developer.android.com/sdk/installing/studio.html                     Windows or Linux
+   IntelliJ IDEA 14     		      http://www.jetbrains.com/idea/download/                                      Windows or Linux
+
+
+6) NetBeans 8.x                               https://netbeans.org/downloads/                                              Windows or Linux
+ 
+
+
+7) Jenkins 1.580.1 LTS                        http://jenkins-ci.org/                                                       Windows or Linux
+
+
+
+8) GenyMotion (Free version)                  https://shop.genymotion.com/index.php?controller=order-opc                   Windows or Linux
+
+
+
+9) SonarQube 4.5.1 LTS                        http://www.sonarqube.org/downloads/                                          Windows or Linux
